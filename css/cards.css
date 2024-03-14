@@ -252,3 +252,7 @@
       transform: translateY(0px);
     }
   }
+
+  .card-footer{
+    font-size: small;
+  }
